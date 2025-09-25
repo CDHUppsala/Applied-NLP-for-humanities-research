@@ -1,4 +1,4 @@
-# text-processing-examples
+# Applied NLP for humanities research
 Simple text processing scripts for a Huminfra handbook chapter.
 
 ## Lemmatisation with efselab
