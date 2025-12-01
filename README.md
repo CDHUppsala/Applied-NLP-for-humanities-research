@@ -1,7 +1,7 @@
 # Applied NLP for humanities research
 This GitHub repository holds text processing scripts for the Huminfra handbook chapter [Applied NLP for humanities research](https://dspace.ut.ee/items/1cb2596b-ab14-4cdb-954c-4136ea52f9e3).
 
-The repository contains scripts to lemmatize Swedish texts using pefselab (see folder Lemmatization with Efselab) as well as scripts for analyzing literary style (see folder Literary Style).
+The repository contains scripts to lemmatize Swedish texts using pefselab (see folder Lemmatization with Efselab) as well as scripts for analyzing literary style (see folder Case Study 2: Literary Style).
 
 ## Reference
 
